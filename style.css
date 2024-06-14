@@ -1,0 +1,69 @@
+body{
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: azure;
+    min-height: 100vh;
+    /* background-image: url(https://syndicate-motors.com/wp-content/uploads/2021/01/fhdfhhgdf.jpg);
+    margin-top: 10px; */
+}
+
+div{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    margin: 15px;
+    background-color: azur;
+    font-size: larger;
+    border: solid 10px;
+    text-align: center;
+     border-radius: 20px;
+} 
+
+/* section{
+    height: 500px;
+    background-color: lightcyan;
+    } */
+
+.yuvv{
+    width: 330px;
+    height: auto;
+    border-radius: 50px;
+    border: solid 2px;
+    border-color: black;
+    position: relative;
+    left: 38%;
+    
+    }
+
+    ul{
+        display: flex;
+        list-style: none;
+        height: 30px;
+        background-color: none;
+        align-items: center;
+        justify-content: space-evenly;
+        color: white;
+        text-decoration: none;
+        background-color: black;
+        text-align: center;
+    }
+
+     footer{
+        height: 120px;
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding-bottom: 0px;
+        margin-top: 90px;
+     }
+
+     .main{
+        background-color: none;
+        text-decoration: none;
+        align-items: center;
+        justify-content: space-evenly;
+        color: white;
+     }
+
+     .links{
+        color: white;
+        }
